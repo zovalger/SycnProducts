@@ -1,0 +1,126 @@
+AGUA MINERAL 	0,34
+ALFILERES PAQUETE DE 10	0,25
+ALMOHADILLAS DE SELLO GRANDE	3,00
+ALMOHADILLAS DE SELLO PEQUEÑA	2,00
+Archivado PR- Lomo Ancho Carta x10	4,25
+Block ALPHA Notas Mediano x Pieza 6A	0,70
+Block notas pequeño 7A	0,60
+Block Construcion, milimetrado y rotulado 10 Hojas x Pieza	2,20
+Block De Dibujo CARIBE	3,60
+Block Factura N°1 Pequeño 65 Hojas	1,20
+Boligrafo KORES Azul y NEGRO CAJA	6,00
+Boligrafo KORES Azul y NEGRO	0,60
+Boligrafo PR ULTRAFINO	0,70
+Borrador Nata 612	1,40
+Borrador Nata 624	0,60
+CARPETA DE 3 AROS DE 1 Y  1/2 PULGADA	4,80
+Carpeta de Colores	0,80
+Carpeta MARRON Carta 	1,00
+Carpeta MARRON Oficio	1,20
+Carpeta Manila Carta 	0,53
+Carpeta Manila Oficio 	0,62
+Carpeta Plastica CON LIGA CARTA	1,60
+Carpeta Plastica CON LIGA OFICIO	2,40
+Carpeta Transparente Carta	0,40
+CARTULINA HOLOGRAFICA Y METALIZADA	1,20
+CARTULINA ESCOLAR PLIEGO	0,87
+Cartulina Hilo Blanco CARTA	0,20
+CARTULINA ESTAMPADA CARTA	0,25
+Cartulina Opalina 	0,20
+Chinche  Colores x Cjt 50 pcs	0,50
+CINTA PLASTICA GRUESA 48mmx x 90 Metros PR-040	3,50
+Cinta PLASTICA DELGADA  3/4" x 35m	0,60
+CINTA DOBLE FAX POINTER	4,61
+CINTA DOBLE FAX ECONOMICA	1,00
+Clips x Cajita	0,60
+Clips INDIVIDUAL	0,01
+COLORES POINTER DE 12	3,13
+CORRECTOR DOBLE BROCHA Y LAPIZ	2,00
+Corrector KORES Brocha 20ml x Pieza	1,60
+Correctore  ARTESCO 18 ML x Pieza	1,60
+Corrector OFICA 9ml x Pieza	2,00
+Creyon Cera La Nieve 6 Colores	1,31
+Creyon Cera La Nieve 12 Colores 	2,61
+Cuad. Repropaper 1L. 100 h. x Pieza	2,00
+Cuad. Repropaper 2L. 100 h. x Pieza	2,00
+Cuad. Repropaper C. 100 h. x Pieza	2,00
+CUADERNO DE DIBUJO	1,36
+Cuaderno PENTAGRAMADO	4,00
+EXACTO GRANDE	3,50
+Escarcha Colores Surtida bolsita	0,20
+Funda OFIART Oficio 	0,21
+Funda OFIMAK Carta	0,13
+FUNDA PAQUETE CARTA DE 100	11,00
+FUNDA PAQUETE OFICIO DE 100	10,00
+Gancho Para Carpeta POR CAJA	3,60
+Gancho Para Carpeta	0,13
+HOJA TAMAÑO CARTA	0,05
+HOJA TAMAÑO OFICIO	0,06
+HOJA TAMAÑO EXTRAOFICIO	0,07
+Hoja De Examen	0,13
+Hojas CRISVI Ponchadas x Paq DE 80	4,00
+Hojas REPROPAPER Ponchadas x Paq DE 100	5,00
+Lamina plastificar Carnet 70 x 100 175 m por caja	6,00
+lapices de colores 12 pequeños	1,00
+Lapiz Amarillo Mongol o kores por CAJA	4,40
+Lapiz Amarillo Mongol o kores	0,43
+Lib. REPROPAPER 2L. 100 Hojas x Pieza	2,00
+Lib.Repropaper C 100 Hojas	2,00
+Lib.PAPERPLUS 100 H 1 Linea x Pieza	2,00
+LIb.PAPERPLUS 100H Cuadriculado x Pieza	2,00
+LIb.PAPERPLUS Cuadriculado 100 h Pieza	2,00
+Libro 2 Columna 100 Folio	5,50
+Libro 3 Columna 100 Folio	5,50
+Libro 3 Columna 200 Folio	11,00
+Libro  2 columna 200 folio	11,00
+Libro  DE LICORES de 50 Folios	5,50
+Libro  Accionistas de 50 Folios	5,60
+Libro Actas 100 folio	5,50
+Libro  Actas 200 folio	11,00
+Libro Actas 300 Folio	16,00
+METODO PALMER	1,46
+MARCADOR PERMANENTE SHARPIE PUNTA FINA	2,00
+Marcador permanente CHENYU O CORONA NEGRO	
+MARCADOR 690 Y 680	2,63
+MARCADOR DOBLE PUNTA PERMANENTE POINTER	0,70
+Marcador Pizarra Regional depot	0,50
+MARCADOR PAQUETE DE 12 DOBLE PUNTA FINA	10,00
+PAPEL AUTOADHESIVO IMPERMEABLE	1,62
+PAPEL Autoadhesivo fotografico	0,70
+Papel Bond 16 Blanco PLIEGO	0,60
+Papel Contac Colores el metro	4,00
+Papel Contac Transparente el metro	2,00
+PAPEL CARBON CARTA	0,17
+PAPEL CARBON OFICIO	0,26
+Papel Fotografico POR HOJA	0,30
+Pega POINTER Escolar  40 grs. x Pieza	0,60
+Pega POINTER Escolar  60 grs. x Pieza	0,70
+Pega KORES Stic 20grs x Pieza	3,00
+Pega KORES Stic 8grs x Pieza	1,66
+PORTAR CARNET	0,60
+CORDON DE PORTA CARNET	1,20
+REGLA 60 CM	7,50
+REGLA 30CM	2,58
+Pintura Al Frio	1,10
+RESMA DE HOJA CARTA	12,00
+RESMA DE HOJA OFICIO	15,00
+SACAPUNTAS METAL	0,30
+SACAPUNTA PLASTICO DEPOSITO	0,44
+Separadores Colores 8 Mats.	1,80
+SILICON LIQUIDO DE 60ML	1,57
+SOBRES BLANCOS	0,50
+Sobre CARIBE Manila Carta	0,60
+Sobre CARIBE Manila Oficio	0,70
+Sobre CARIBE Manila EXTRA OFICIO	0,75
+RESALTADORES	1,50
+TAPABOCA AZUL INDIVIDUAL 	0,20
+TAPABOCA AZUL 5 UNIDADES	1,00
+TAPABOCA NEGRO INDIVIDUAL 	0,25
+TAPABOCA NEGRO 4 UNIDADES	1,00
+TALONARIO DE FACTURA	1,20
+TALONARIO DE RIFA	2,50
+TIJERA ESCOLAR	2,40
+TIRRO PEQUEÑO ESCOLAR	0,70
+TIRRO GRANDE	1,70
+TINTA PARA SELLO  DE 24ML	1,00
+

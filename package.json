@@ -1,0 +1,21 @@
+{
+	"name": "sycn-productos",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"sync": "node ./src/sync",
+		"formate": "node ./src/formate",
+		"dev": "nodemon ./src/formate --ignore 'out/*.json'"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	},
+	"dependencies": {
+		"axios": "^1.4.0",
+		"dotenv": "^16.3.1"
+	}
+}
